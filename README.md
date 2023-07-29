@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on web development projects using ASP.NET, C#, HTML5, CSS, and JavaScript. <br>Additionally, I'm exploring Object-Oriented Programming (OOP) principles and working with Entity Framework and MSSQL for database integration.<br>🌱"I am currently focusing on backend development with ASP.NET Core MVC. Specifically, <br>I am diving into database management and performance optimization."<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I'm currently working on web development projects using ASP.NET, C#, HTML5, CSS, and JavaScript. <br>Additionally, I'm exploring Object-Oriented Programming (OOP) principles and working with Entity Framework and MSSQL for database integration.<br>🌱"I am currently focusing on backend development with ASP.NET Core MVC."<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
